@@ -17,7 +17,14 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
+                    <li class="hidden">
+                        <ul class="nav navbar-nav">
+                            <li>
+                                <a class="page-scroll" href="#{{ page.title }}">{{ page.title }}</a>
+                             </li>
+                        </ul>
 
+                    </li>
                     {% for page in site.pages | sort: "title" %}
                     {% unless page.url == "/index.html" %}
                     <li>
