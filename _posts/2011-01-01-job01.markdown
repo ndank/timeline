@@ -1,7 +1,7 @@
 ---
 layout: null
-title: July 2011 - May 2012
+title: Minggu Pertama Mei 2018
 subtitle:
 image: "img/timeline/1.jpg"
 ---
-Design tampilan dan perancangan alur Jawara eGov
+Design tampilan dan perancangan alur Jawara eGov, Develop CSS, Develop Backend, Develop Ehibahbansos

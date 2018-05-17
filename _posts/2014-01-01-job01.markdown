@@ -1,7 +1,7 @@
 ---
 layout: null
-title: June 2014 - Present
+title: Minggu Ke Empat Mei 2018
 subtitle:
 image: "img/timeline/4.jpg"
 ---
-Pemilihan gambar untuk slider dan link terkait.
+Membangun Android Jawara eGov, Membangun Android Dashboard Pimpinan, Membangun Android Apps Ehibahbansos, Membangun Android Yankes

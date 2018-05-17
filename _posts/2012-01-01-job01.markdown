@@ -1,7 +1,7 @@
 ---
 layout: null
-title: May 2012 - January 2013
+title: Minggu Kedua Mei 2018
 subtitle:
 image: "img/timeline/2.jpg"
 ---
-Membangun CSS untuk tampilan Jawara eGov.
+Update CSS untuk tampilan Jawara eGov, design icon untuk aplikasi internal dan external, update Ehibahbansos
