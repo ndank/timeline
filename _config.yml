@@ -1,0 +1,14 @@
+url: http://ndank.github.io
+baseurl: /timeline-jekyll-theme
+
+# Site Settings
+title: Timeline TA 2018
+description: "Agenda dan Jadwal Kerja."
+keywords: "jekyll, theme"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
